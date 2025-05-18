@@ -16,6 +16,8 @@ public class SeleniumTest1 {
 		driver.get("https://www.google.com");	
 		System.out.println(driver.getTitle());
 		driver.close();
+		
+		
 	}
 
 }
